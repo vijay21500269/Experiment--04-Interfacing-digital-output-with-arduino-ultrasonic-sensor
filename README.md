@@ -1,4 +1,5 @@
-# EXPERIMENT-NO--04-Interface
+# EXPERIMENT-NO--04-Interfacing digital output with arduino ultrasonic sensor
+ 
 
 ## AIM: 
 To measure the distance of the given obstacles using ultrasonic sensor(HC-SR04)
