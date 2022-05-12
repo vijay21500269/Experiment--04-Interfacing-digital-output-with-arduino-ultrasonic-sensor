@@ -96,7 +96,8 @@ void loop(){
 }
 ~~~
 
-### 
+### OUTPUT
+![output](https://github.com/vijay21500269/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/Screenshot%20(19).png)
 
 
 
